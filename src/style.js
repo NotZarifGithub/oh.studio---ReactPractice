@@ -10,6 +10,8 @@ const styles = {
     heading1: "lg:text-[66px] sm:text-[44px] text-[33px] font-semibold leading-[1.2em]",
     heading2: "lg:text-[33px] text-[24px] font-semibold tracking-tight leading-[1.2em]",
     heading3: "lg:text-[33px] text-[33px] font-semibold tracking-tight leading-[1.2em]",
+    heading4: "lg:text-[22px] text-[22px] font-semibold tracking-tight leading-[1.2em]",
+
     text: "text-[15px] font-normal tracking-tighter",
 
     flexCenter: "flex justify-center items-center",

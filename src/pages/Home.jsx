@@ -8,10 +8,12 @@ const Home = () => {
   return (
     <main className="flex flex-col justify-center">
       <Hero 
-      section={heroMain}/>
+      section={heroMain}
+      index={0}/>
       <Showcase />
       <Hero 
-      section={heroCTA}/>
+      section={heroCTA}
+      index={0}/>
       <Footer /> 
       <Button />
    </main>

@@ -3,7 +3,7 @@ import Project from '../common/Project'
 
 const Showcase = () => {
   return (
-    <div className={`${styles.boxWidth}`}>
+    <div>
       <Project index1={0} index2={1} />
       <Project index1={2} index2={3}/>
       <Project index1={4} index2={5}/>
