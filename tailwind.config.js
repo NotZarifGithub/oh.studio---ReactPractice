@@ -10,7 +10,6 @@ export default {
         primary: "#000000",
         secondary: "#7f7f7f",
         tertiary: "#e8e5e480",
-        btn_color: "#e8e5e480",
       },
       fontFamily: {
         roboto: ['Roboto', "sans-serif"],
