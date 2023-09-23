@@ -1,4 +1,3 @@
-
 import Navbar from "./components/feature/Navbar";
 import Home from "./pages/Home";
 import Profile from "./pages/Profile";
